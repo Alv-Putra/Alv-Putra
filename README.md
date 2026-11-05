@@ -13,12 +13,7 @@
   </a>
 </p>
 
-<!-- Retro Dialogue Box Bio -->
-<blockquote>
-  <samp>
-    Web developer focusing on building clean, functional user interfaces and scalable backend services. Currently working with the JavaScript ecosystem—from designing layouts in Figma to deploying full-stack applications with Next.js and Node.js.
-  </samp>
-</blockquote>
+
 
 ---
 
@@ -76,38 +71,6 @@
 </p>
 
 ---
-
-<h3>
-  <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%233b82f6" width="22" height="22" align="center" alt="trophy" />
-  <kbd><samp>QUEST LOG (FEATURED PROJECT)</samp></kbd>
-</h3>
-
-<div align="left">
-  <a href="https://github.com/Alv-Putra/Frontend_tiketkonser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv-Putra&repo=Frontend_tiketkonser&theme=tokyonight&hide_border=false&border_radius=0&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&border_color=1e293b" alt="Frontend_tiketkonser Repo" />
-  </a>
-</div>
-
----
-
-<h3>
-  <img src="https://api.iconify.design/pixelarticons/chart-bar.svg?color=%233b82f6" width="22" height="22" align="center" alt="stats" />
-  <kbd><samp>PLAYER STATS & ACTIVITY</samp></kbd>
-</h3>
-
-<div align="left">
-  <a href="https://github.com/Alv-Putra">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alv-Putra&show_icons=true&theme=tokyonight&hide_border=false&border_radius=0&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&border_color=1e293b&count_private=true" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Alv-Putra">
-    <img src="https://streak-stats.demolab.com?user=Alv-Putra&theme=tokyonight&hide_border=false&border_radius=0&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&border=1e293b" height="165" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/Alv-Putra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alv-Putra&layout=compact&theme=tokyonight&hide_border=false&border_radius=0&bg_color=0d1117&title_color=3b82f6&border_color=1e293b&langs_count=8" height="150" alt="Top Languages" />
-  </a>
 </div>
 
 <br />
