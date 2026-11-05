@@ -7,7 +7,7 @@
 <!-- Animated Pixel Typing Subtitle -->
 <p align="left">
   <a href="https://github.com/Alv-Putra">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=700&height=30&lines=%3E+Website-Developer;%3E+;%3E+JS+%7C++%7C++%7C+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=700&height=30&lines=%3E+Website-Developer;" alt="Typing SVG" />
   </a>
 </p>
 
