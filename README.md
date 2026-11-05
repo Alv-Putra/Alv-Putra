@@ -70,12 +70,7 @@
 
 <br />
 
-<!-- Animated Contribution Graph -->
-<p align="center">
-  <a href="https://github.com/Alv-Putra">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alv-Putra&bg_color=0d1117&color=3b82f6&line=2563eb&point=ffffff&area=true&hide_border=false&radius=0" alt="Contribution Graph" />
-  </a>
-</p>
+
 
 <!-- Blocky Pixel-Style Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,100:2563eb&height=80&section=footer" alt="Footer" />
