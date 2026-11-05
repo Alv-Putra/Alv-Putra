@@ -1,5 +1,3 @@
-<!-- Blocky Pixel-Style Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,100:2563eb&height=100&section=header" alt="Header" />
 
 <!-- Animated Pixel Main Title -->
 <p align="left">
@@ -18,10 +16,7 @@
 ---
 
 <!-- Section Title with Pixelarticons Library -->
-<h3>
-  <img src="https://api.iconify.design/pixelarticons/gamepad.svg?color=%233b82f6" width="22" height="22" align="center" alt="gamepad" />
-  <kbd><samp>TECH STACK</samp></kbd>
-</h3>
+
 
 <p>
   <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%233b82f6" width="16" height="16" align="center" alt="arrow" />
