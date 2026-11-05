@@ -1,7 +1,7 @@
 
 <!-- Animated Pixel Main Title -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1500&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=600&height=40&lines=Hi+there,+I'm+Alv-Putra" alt="Pixel Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1500&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=600&height=40&lines=Hi+there,+I'm+Alvazri" alt="Pixel Title" />
 </p>
 
 <!-- Animated Pixel Typing Subtitle -->
